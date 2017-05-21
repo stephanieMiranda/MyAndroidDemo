@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAndroidDemo</string>
+
+    <!-- These are new id's for the text of the buttons. -->
+    <string name="course_one">Course One</string>
+    <string name="course_two">Course Two</string>
+    <string name="course_three">Course Three</string>
+
+
+</resources>

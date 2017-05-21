@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Customize your widget colors here. -->
+        <!-- The set of colors that is used for when actions happen. -->
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight" parent="course_one">@color/colorAccentLight</item>
+        <item name="colorControlActivated" parent="course_one">@color/colorAccentDark</item>
+        <item name="colorControlNormal" parent="course_one">@color/colorAccent</item>
+
+    </style>
+
+</resources>
